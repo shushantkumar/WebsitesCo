@@ -1,6 +1,42 @@
 # Websitesco
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.<br>
+The page is optimised for desktop as well as mobile view.<br>
+
+### Requirements
+NodeJs, NPM and angular/cli must be installed <br>  
+
+### Steps
+
+1. Clone the repository
+
+
+    ```
+        git clone https://github.com/shushantkumar/WebsitesCo.git
+    ```
+2. To install the required dependencies follow below instruction  
+    
+    ```
+        cd WebsitesCo
+        npm install
+    ```       
+   
+3. To run frontend Application 
+
+    ```
+        ng serve
+    ``` 
+   and open http://localhost:4200 in your browser to access the Web Application  
+<br>
+
+* Desktop View
+!()[img1.png]
+<br>
+
+* Mobile View
+!()[img2.png]
+
+
 
 ## Development server
 
@@ -17,6 +53,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
 
 ## Running end-to-end tests
 
