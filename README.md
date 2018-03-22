@@ -30,11 +30,11 @@ NodeJs, NPM and angular/cli must be installed <br>
 <br>
 
 * Desktop View
-!()[img1.png]
+![](img1.png)
 <br>
 
 * Mobile View
-!()[img2.png]
+![](img2.png)
 
 
 
